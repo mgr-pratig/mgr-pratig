@@ -1,19 +1,26 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<table>
+<tr>
+<td>
 
-  <!-- Left: Intro text -->
-  <div>
-    <h1>Hi, I'm Pratig 👋</h1>
-    <p>🎓 Computer Programming diploma student in Canada</p>
-    <p>💻 Aspiring <strong>Junior Full-Stack Developer</strong></p>
-    <p>🧠 Strong interest in backend development with hands-on full-stack projects</p>
-    <p>🚀 Building real-world applications using <strong>PHP, SQL, HTML, CSS, and JavaScript</strong></p>
-  </div>
+<!-- Left: Intro Text -->
+<h1>Hi, I'm Pratig 👋</h1>
+<p>🎓 Computer Programming student in Canada</p>
+<p>💻 Aspiring <strong>Junior Full-Stack Developer</strong></p>
+<p>🧠 Strong interest in backend development with hands-on full-stack projects</p>
+<p>🚀 Building real-world applications using <strong>PHP, SQL, HTML, CSS, and JavaScript</strong></p>
+<p>🔧 Gaining backend experience through projects in <strong>PHP, Java, Python, and C#</strong></p>
+<p>🧪 Learning <strong>Selenium</strong> for UI test automation</p>
+<p>📂 Focused on <strong>projects, problem-solving, and clean code</strong></p>
 
-  <!-- Right: Your logo/avatar -->
-  <img src="./image/ﾁｭﾝ丸ﾋﾟﾖ on Pixiv.jpg" width="120" style="border-radius: 10px;" />
+</td>
+<td width="250" valign="middle" align="center">
 
-</div>
-<hr/>
+<!-- Right: Image -->
+<img src="ﾁｭﾝ丸ﾋﾟﾖ on Pixiv.jpg" alt="Anime Logo" width="200" style="border-radius: 10px;" />
+
+</td>
+</tr>
+</table>
 
 <h2>🔧 Tech Stack</h2>
 
